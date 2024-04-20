@@ -1,0 +1,2 @@
+COPY (SELECT * FROM public.staff_locations_view) TO '/home/project/staff_locations_view.csv' WITH CSV HEADER;
+
