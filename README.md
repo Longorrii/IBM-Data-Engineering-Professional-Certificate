@@ -30,4 +30,4 @@ This Professional Certificate contains 13 courses, as follows:
 
 ## Certification
 
-![Certification](.Coursera 25P3AX6YHXL4.jpg)
+![](./Coursera%2025P3AX6YHXL4.jpg)
