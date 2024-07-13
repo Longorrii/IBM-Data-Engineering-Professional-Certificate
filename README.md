@@ -30,4 +30,6 @@ This Professional Certificate contains 13 courses, as follows:
 
 ## Certification
 
-![](./Coursera%2025P3AX6YHXL4.jpg)
+![Duong Van Nhat Long][def]
+
+[def]: ./Coursera%2025P3AX6YHXL4.jpg
